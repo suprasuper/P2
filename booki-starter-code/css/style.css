@@ -85,7 +85,7 @@ header {
     color: #0065FC;
     border-top-style: solid;
     border-top-width: 2px;
-    padding-top: 14px;
+    padding-top: 15px;
 
 
 }
@@ -135,7 +135,7 @@ p.recherche-text {
 
 }
 
-#span-form {
+.span-form {
     background-color: #F2F2F2;
     border: 1px solid #F2F2F2;
     border-radius: 15px 0px 0px 15px;
