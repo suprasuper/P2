@@ -641,7 +641,7 @@ p.footer-item {
         font-size: 14px;
     }
 
-    . .populaires-cards .card-subtitle {
+    .populaires-cards .card-subtitle {
         font-size: 13px;
     }
 
@@ -783,7 +783,7 @@ p.footer-item {
 
     .hebergements-and-populaires {
         display: flex;
-        margin-bottom: 6 5px;
+        margin-bottom: 5px;
         margin-top: 0;
         margin-left: -20px;
         margin-right: -20px;
